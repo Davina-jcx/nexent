@@ -51,7 +51,7 @@ no more PRDs!! just describe in plain english and devs get it instantly
 ::: info Tom Park - University of Toronto CS Student - 2025-08-03
 International student here! Started contributing to Nexent as part of my open source class assignment, but ended up loving the project. The documentation is so well-written that even non-native English speakers like me can easily understand and contribute. I helped translate some docs and built a study group coordination agent for our international student community. The multimodal support works great for students who prefer different communication styles!
 :::
-
+fdf
 ::: info sleepy_coder - 2025-08-03
 international student here, docs are really well written. multimodal support is 🔥
 :::
